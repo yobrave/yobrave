@@ -1,6 +1,6 @@
 <h2 align="center">👋 你好，我是李好 Yobrave Lee.</h2>
 <p align="center">
-  <a href="https://llever.com">Blog</a> •
+  <a href="https://llever.com">博客</a> •
   <a href="https://github/chinanf-boy">大兄弟</a>
   <a href="mailto:yobrave_work@outlook.com"> 📫 邮件</a>
 </p>
@@ -15,7 +15,7 @@
 
 -------
 
-## 博客
+## 博客小结
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
